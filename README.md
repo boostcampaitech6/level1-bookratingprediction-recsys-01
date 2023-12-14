@@ -20,12 +20,12 @@
 
 ## 💻 활용 장비 및 재료
 
-ai stage server : V100 GPU x 4
+ai stage server : V100 GPU
 
 python==3.8.5
 
-torch==1.7.1
+torch==2.1.1
 
-CUDA==11.0
+CUDA==11.8
 
 ## 🥇 최종 결과
