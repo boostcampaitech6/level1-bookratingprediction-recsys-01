@@ -23,9 +23,9 @@
 ai stage server : V100 GPU
 
 python==3.10
+
 pytorch==1.12.1 
-torchvision==0.13.1 
-torchaudio==0.12.1 
+
 CUDA==11.3
 
 ## 🥇 최종 결과
