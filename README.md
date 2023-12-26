@@ -8,17 +8,17 @@
 
 ## 🤝프로젝트 팀 구성 및 역할
 
-김수진_T6022: 데이터 전처리 및 증강 시도, NCF모델 실험(context data를 활용해 학습, 딥러닝 부분 batchnorm, dropout적용 등), k-fold cross validation 구현 및 학습 단계 최적화 
+김수진: 데이터 전처리 및 증강 시도, NCF모델 실험(context data를 활용해 학습, 딥러닝 부분 batchnorm, dropout적용 등), k-fold cross validation 구현 및 학습 단계 최적화 
 
-김예찬_T6031: 데이터 전처리 및 원라인 코드 작성, DeepCoNN모델 실험, Catboost 모델 고도화 
+김예찬: 데이터 전처리 및 원라인 코드 작성, DeepCoNN모델 실험, Catboost 모델 고도화 
 
-남궁진호_T6048: 데이터 전처리, DeepCoNN모델 실험
+남궁진호: 데이터 전처리, DeepCoNN모델 실험
 
-정혜윤_T6160: 데이터 전처리, DCN, CNN-DCN 모델 실험, 초기 Cross Validation 코드 일부 작성, Grid Search Cross Validation 코드 작성 및 실험, 데이터 증강 시도
+정혜윤: 데이터 전처리, DCN, CNN-DCN 모델 실험, 초기 Cross Validation 코드 일부 작성, Grid Search Cross Validation 코드 작성 및 실험, 데이터 증강 시도
 
-조형진_T6169: CNN-FM, CNN-WDN, CNN-DCN, Catboost 모델코드 작성, Optuna로 Catboost 하이퍼파라미터 최적화, Ensemble, Frozen CNN 실험
+조형진: CNN-FM, CNN-WDN, CNN-DCN, Catboost 모델코드 작성, Optuna로 Catboost 하이퍼파라미터 최적화, Ensemble, Frozen CNN 실험
 
-한예본_T6181: 데이터 전처리, CNN-FM, CNN-WDN, CNN-DCN(image data와 context data를 동시에 활용하는 모델 개발), K-modes clustering
+한예본: 데이터 전처리, CNN-FM, CNN-WDN, CNN-DCN(image data와 context data를 동시에 활용하는 모델 개발), K-modes clustering
 
 
 ## 💻 활용 장비 및 재료
