@@ -37,3 +37,7 @@ CUDA==11.3
 최종순위: 리더보드 최종 RMSE 2.1201 2등
 
 최종모델: CatBoost1(40%), CatBoost2(20%), CNN FM(10%), CNN DCN1(10%), CNN DCN2(20%)
+
+랩업리포트
+
+[Book_Rating_Prediction-RecSys_팀 리포트(01조).pdf](https://github.com/boostcampaitech6/level1-bookratingprediction-recsys-01/files/13797525/Book_Rating_Prediction-RecSys_.01.pdf)
